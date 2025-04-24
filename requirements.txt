@@ -2,3 +2,4 @@ streamlit
 leafmap
 pandas
 numpy
+geopandas
